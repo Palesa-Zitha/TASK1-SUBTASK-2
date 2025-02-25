@@ -29,7 +29,8 @@ if(temp3 - temp2 < 10) {
 
 // Check if the final temeperature is within the accepatable range
   if (temp3 >= 150 && temp3 <= 190) {
-    cout("You may start frying the Magwinyas./n";)
+    cout <<"You may start frying the Magwinyas./n";
      } else {
         cout <<"Oil is not ready for frying!\n";
+    return o;
   }
