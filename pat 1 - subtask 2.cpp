@@ -23,7 +23,7 @@ cin >> temp3;
 
 //Check if the increase between second and third readings is less than 10
 if(temp3 - temp2 < 10) {
-  cout << "increase the fryer heat before taking the third reading.\n"
+  cout << "increase the fryer heat before taking the third reading.\n";
     return 0;
 }
 
