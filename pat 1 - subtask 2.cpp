@@ -14,7 +14,7 @@ int main(){
 
   //checking if the second reading increases by more than 50 degrees
   if(temp2 - temp1 > 50){
-    cout << "Reduce fryer heat before taking the third reading.\n"
+    cout << "Reduce fryer heat before taking the third reading.\n;
       return 0;
   }
 
